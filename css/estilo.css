@@ -55,3 +55,19 @@ footer p{
     color: #f3f3f3;
 
 }
+
+/********GALERIA*********/
+#galeria.col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+    height: 300px;
+
+}
+
+#galeria:hover{
+    border: 5px solid #f7f7f7fa;
+}
